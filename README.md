@@ -1,19 +1,25 @@
 <!-- <h3 align="center"> Hello! I am Gwangchae Seo 👋</h3> -->
+<!-- ## Hello! I am Gwangchae Seo 👋 -->
+<!-- <div align="center"> -->
+  
 ## Hello! I am Gwangchae Seo 👋
+* 👨‍🎓 Undergraduate at **University of Seoul**
+* Major in **International Relations** 🌏
+* Minor in **Bigdata Analytics** 🔍
+* **Boostcamper** of Boostcamp AI Tech by Naver Connect Foundation (2021.07 ~ Present)
+* Interested in **Computer Vision** 📽
+* If you wanna know more about me 👉 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)](https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)
+* If you wanna contect to me 👉 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:"kcseo25@naver.com"
+)](mailto:"kcseo25@naver.com")
+<br>
+
 ### Stacks
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Numpy Badge](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
-<br>
-* 👨‍🎓 Undergraduate at **University of Seoul**
-* Major in **International Relations** 🌏
-* Minor in **Bigdata Analytics** 🔍
-* Interested in **Computer Vision** 📽
-* If you wanna know more about me 👉 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)](https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)
-* If you wanna contect to me 👉 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:"kcseo25@naver.com"
-)](mailto:"kcseo25@naver.com")
+
 <br>
 
 ### AI Competitions
@@ -31,8 +37,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwang-chae%2FGwang-chae&count_bg=%23BA3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
-  <!-- <p align="right"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwang-chae%2FGwang-chae&count_bg=%23BA3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </p> -->
-
 <!--
 **Gwang-chae/Gwang-chae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
