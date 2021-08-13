@@ -10,7 +10,7 @@
 * Interested in **Computer Vision** 📽
 * If you wanna know more about me 👉 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)](https://kcseo25.notion.site/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)
 * If you wanna contect to me 👉 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:"kcseo25@naver.com"
-)](mailto:"kcseo25@naver.com")
+)](mailto:"kcseo25@naver.com") [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gwangchae_seo/)](https://www.instagram.com/gwangchae_seo/)
 <br>
 
 ### Stacks
