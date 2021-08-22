@@ -28,6 +28,7 @@
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/overview/description)|Pose Estimation|21.02~21.04|19/156, Top 13%|
 |[시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description)|Classification|21.01~21.02|96/418, Top 23%|
 |[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/overview/description)|Image Classification|20.10~20.11|16/82, Top 20%|
+|[심리 성향 예측 AI 경진대회](https://dacon.io/competitions/official/235647/overview/description)|Classification|20.09~20.11|64/581, Top 11%|
 <br>
 
 ![Gwang-chae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwang-chae&show_icons=true&theme=cobalt)
