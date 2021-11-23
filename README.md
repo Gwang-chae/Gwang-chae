@@ -25,6 +25,10 @@
 ### AI Competitions
 |Competition Name|Type|Date|Rank|
 |--------|---|---|---|
+|[글자 검출 대회](https://stages.ai/competitions/80/overview/description)|Optimal Character Recognition|21.11~21.11|2/19, Top 10%|
+|[재활용 품목 분류를 위한 Semantic Segmentation](https://stages.ai/competitions/76/overview/description)|Semantic Segmentation|21.10~21.11|1/19, Top 1%|
+|[재활용 품목 분류를 위한 Object Detection](https://stages.ai/competitions/78/overview/description)|Object Detection|21.09~21.10|6/19, Top 31%|
+|[마스크 착용 상태 분류](https://stages.ai/competitions/74/overview/description)|Image Clssification|21.08~21.09|10/38, Top 26%|
 |[모션 키포인트 검출 AI 경진대회](https://dacon.io/competitions/official/235701/overview/description)|Pose Estimation|21.02~21.04|19/156, Top 13%|
 |[시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description)|Classification|21.01~21.02|96/418, Top 23%|
 |[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/overview/description)|Image Classification|20.10~20.11|16/82, Top 20%|
