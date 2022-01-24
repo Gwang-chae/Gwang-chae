@@ -7,7 +7,7 @@
 * Major in **International Relations** 🌏
 * Minor in **Bigdata Analytics** 🔍
 * **Boostcamper** of Boostcamp AI Tech by Naver Connect Foundation (2021.07 ~ 2021.12)
-* Working for Hanwha System ICT (2021.11 ~ Present)
+* Working for **Hanwha System ICT** (2021.11 ~ Present)
 * Interested in **Computer Vision and Android** 📽
 * If you wanna know more about me 👉 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)](https://kcseo25.notion.site/Gwangchae-Seo-10a8173b620b4e45b4f51acbc36e0419)
 * If you wanna contect to me 👉 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:"kcseo25@naver.com"
