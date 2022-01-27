@@ -3,9 +3,9 @@
 <!-- <div align="center"> -->
   
 ## Hello! I am Gwangchae Seo 👋
-* 👨‍🎓 Undergraduate at **University of Seoul**
-* Major in **International Relations** 🌏
-* Minor in **Bigdata Analytics** 🔍
+* 👨‍🎓 Graduated from **University of Seoul** in 2021
+* Majored in **International Relations** 🌏
+* Minored in **Bigdata Analytics** 🔍
 * **Boostcamper** of Boostcamp AI Tech by Naver Connect Foundation (2021.07 ~ 2021.12)
 * Working for **Hanwha System ICT** (2021.11 ~ Present)
 * Interested in **Computer Vision📽 and Android**
