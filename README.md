@@ -32,7 +32,7 @@
 |[시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://dacon.io/competitions/official/235687/overview/description)|Classification|21.01~21.02|96등/418팀|
 |[랜드마크 분류 AI 경진대회](https://dacon.io/competitions/official/235585/overview/description)|Image Classification|20.10~20.11|16등/82팀|
 |[심리 성향 예측 AI 경진대회](https://dacon.io/competitions/official/235647/overview/description)|Classification|20.09~20.11|64등/581팀|
-<br></br>
+<br>
 
 <div>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=Gwang-chae&show_icons=true&theme=cobalt">
