@@ -34,8 +34,10 @@
 |[심리 성향 예측 AI 경진대회](https://dacon.io/competitions/official/235647/overview/description)|Classification|20.09~20.11|64등/581팀|
 <br>
 
-<div>
+<div style="float:left;">
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=Gwang-chae&show_icons=true&theme=cobalt">
+</div>
+<div style="float:left;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcseo25">
 </div>
 <br></br>
